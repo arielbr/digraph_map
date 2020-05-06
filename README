@@ -1,0 +1,25 @@
+name: Ariel Bao
+JHED: rbao4
+
+>>What doe the program do?
+    This program first grabs the number of digraphs and stores this number of digraphs that follows. It then searches their occurances in the following paragraph, and then prints the digraphs and the words containing them out in the following format: [digraph] = [word1, word2, word3]
+    The command line argument is the executable followed by the file name and then a char denoting the sequence of digraph display.
+    	a = normal ASCII seuqnce
+	r = reverse alphabetical sequence
+	c = sorting from the most to least occurances
+
+    Then after display of "q?>", the user input is prompted.
+    	quit = exit program
+	a number = display all digraphs occuring that number of times, followed by the words containing it
+	a string = display how many times this digraph has appeared, or if it is not in the digraph list
+
+>>Structure?
+    I included four funcs in digraph.cpp.
+      generate_list_digraph takes the first number in the program  and then extracts that many strings that follow.
+      d_appearance initialize each digraph's number of appearances to be 0, in case one digraph is not found in para, and no string in the vector value of the map<string, vector<string>> for all digraphs and words containing them is pushed back, and thus this digraph is not a key for the map.
+      search_para searches the para word by word and pushes back words containing digraph d into words_with_d[d], where this map is to be returned.
+      word_count returns a map, whose key is all possible number of appearances of the digraphs, and then value (vector of string) is a collection of all digraphs with that many appearances. This works when user inputs a number.
+      output_digraph function which handles the different digraph sequences as the user likes.
+   In digraphAnalyzer.cpp, I called all the funcs above to return vectors, maps, and output desired values.
+
+   All my functions' detailed purposes and params' meanings are written in comments before their declarations and definitions in the .cpp files.

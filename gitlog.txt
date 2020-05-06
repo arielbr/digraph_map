@@ -1,0 +1,179 @@
+commit 2a1c2e8bd01895a1839e064bacedc4b1bd6187af
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Fri Oct 25 22:14:12 2019 -0400
+
+    made sure digraphAnalyzer.cpp only contains main
+
+commit b029c2daac7ede852e0425f315133eae6cd946ac
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Fri Oct 25 21:40:44 2019 -0400
+
+    changed README
+
+commit 65e9c67edc5aad0ac47ccb4ec45834a22fe3ebee
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Fri Oct 25 21:23:43 2019 -0400
+
+    changed Makefile
+
+commit eb0d39f42678cb0f5b0a0300cd460a31389baec1
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Fri Oct 25 21:23:29 2019 -0400
+
+    updated .cpp
+
+commit 328508ea0a787b47b181b1ee4a1d9bf300a2456f
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Fri Oct 25 21:05:40 2019 -0400
+
+    updated README
+
+commit f430883b0ae924087d83c8778671ad9643aaf31b
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Fri Oct 25 20:33:25 2019 -0400
+
+    updated using in diagraphAnalyzer.cpp
+
+commit f910c455d930cf37390c26b156e2b559e7cf623c
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Fri Oct 25 19:03:24 2019 -0400
+
+    digraphAnalyzer.cpp works except using and includes need fixing
+
+commit b2d30762449ba91ecb100a17be2b2d347b2579a2
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Fri Oct 25 19:03:03 2019 -0400
+
+    digraph.cpp works except using and includes need fixing
+
+commit 3aab1af2c3d065bdc025830f832a399da43c45e0
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Fri Oct 25 09:30:11 2019 -0400
+
+    digraphAnalyzer.cpp works, except sch
+
+commit bfa1943d93d0591de73be03b2e4529495de66b6b
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Fri Oct 25 09:29:48 2019 -0400
+
+    updated search_para fucntion
+
+commit 30435865ad2d3b9e2fab34f289de40bad7e0ae20
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Tue Oct 22 21:28:01 2019 -0400
+
+    updated diagraphAnalyzer.cpp
+
+commit dd3a9b63ea106ca2b91de6293e4325319afe2304
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Tue Oct 22 20:53:11 2019 -0400
+
+    made two tests for functions
+
+commit b9afc322546d6600fe88019fd498c5ab94a02d21
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Tue Oct 22 20:52:25 2019 -0400
+
+    updated diagraphAnalyzer.cpp
+
+commit 55d28b43a04c6bda10b15ba548aa248b633f2215
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Tue Oct 22 20:51:40 2019 -0400
+
+    updated digraph.cpp
+
+commit b7afeeb2e7c5cd75318f588650993928f1a5a928
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Sat Oct 19 23:25:21 2019 -0400
+
+    created README
+
+commit 9df35081a40934a5a69610a56e2a8df124bb2894
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Sat Sep 28 17:44:29 2019 -0400
+
+    updated all hw3 files and created tests
+
+commit 41ce1829ed8294a63ee85b9bdd8a9ddd79f16d05
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Fri Sep 27 18:35:23 2019 -0400
+
+    updated test_search_functions.c
+
+commit a35ba8233e29f4d3cae04c0829f651331a5db78b
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Fri Sep 27 18:08:20 2019 -0400
+
+    updated test_search_functions.c
+
+commit 78098e6d8f1f4af6f3507f8f146e1b0266e36b1a
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Fri Sep 27 16:37:48 2019 -0400
+
+    created grid.txt
+
+commit 0bca3ddcff58d25e09c1871a21aaf7d0ec135e84
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Fri Sep 27 14:45:28 2019 -0400
+
+    updated search_functions.c
+
+commit 573700313e9017edee8ef60aafcabc0964b774ba
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Fri Sep 27 14:35:38 2019 -0400
+
+    updated word_search.c
+
+commit c5d251b74af1857ee38aeb5d95c173b798591f22
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Fri Sep 27 08:28:40 2019 -0400
+
+    created hw3
+
+commit cf8e1de54bba26820addd324748df84b3341084f
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Thu Sep 12 19:35:20 2019 -0400
+
+    updated arithmetic.c
+
+commit e3d1eaac4b8bf2c755c511b2924c641f051141b5
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Thu Sep 12 01:42:40 2019 -0400
+
+    created hw1
+
+commit 2b26c3389f70c12a001ab50600f9aaa2222d95bc
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Thu Sep 12 01:41:23 2019 -0400
+
+    created arithmetic.c
+
+commit e40ab20de30dcfd457679e6a77c36a0c1834ab7b
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Fri Sep 6 20:21:28 2019 -0400
+
+    created hw0
+
+commit eb383e724e95c34c05a31442158e74e86d2938e5
+Author: rbao4 <rbao4@jhu.edu>
+Date:   Wed Sep 4 22:47:48 2019 -0400
+
+    updated README
+
+commit 38d1417475ed4ebc3093af4c38e79176c0dadab3
+Author: rbao4 <rbao4@jhu.edu>
+Date:   Wed Sep 4 22:42:43 2019 -0400
+
+    created README
+
+commit c8b54cbcc6dd1c54836b78d033fc08b21fe74fac
+Author: rbao4 <rbao4@jhu.edu>
+Date:   Wed Sep 4 22:38:08 2019 -0400
+
+    created README
+
+commit 3a5983e9c21c6415c5f076d0a3dc09f5a00cd3b1
+Author: rbao4 <rbao4@jhu.edu>
+Date:   Wed Sep 4 19:47:45 2019 +0000
+
+    Initial commit
